@@ -1,0 +1,7 @@
+# Project exclude paths
+/hello-world/target/
+/spring-boot-api-doc/target/
+/spring-elasticsearch/target/
+/spring-mongo-rest-api/target/
+/spring-postgresql-datajpa/target/
+/spring-rabbitmq/target/
